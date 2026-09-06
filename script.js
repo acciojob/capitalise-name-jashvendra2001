@@ -2,5 +2,6 @@
 
 function upperCase(){
 	let letter=document.querySelector("#fname")
+	letter.value.toUpperCase()
 }
 
