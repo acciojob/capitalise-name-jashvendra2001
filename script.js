@@ -1,2 +1,4 @@
 //your JS code here. If required.
-console.log($fname.toUpperCase())
+
+let letter=document.querySelector("#fname")
+console.log(letter.value.toUppercase())
